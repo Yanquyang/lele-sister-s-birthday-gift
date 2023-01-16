@@ -2,7 +2,7 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",    
+        "送给",    
         "亲爱的姐姐", 
         "今天是你的生日",
         "礼物收全了吗？",
@@ -22,15 +22,15 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我": "./imgs/songxinxin.jpeg",
-        "亲爱的姐姐": "./imgs/nothing.jpg",
+        "送给": "./imgs/songxinxin.jpeg",
+        "亲爱的姐姐": "./imgs/1.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "礼物收全了吗？": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.webp",
         "然后才有力气干活": "./imgs/nothing.jpg",
-         "和想我": "./imgs/nothing.jpg",
-        "生日快乐~~": "./imgs/nothing.jpg"
+         "和想我": "./imgs/2.jpg",
+        "生日快乐~~": "./imgs/3.jpg"
     },
     desc: {
         turn_on: "点我开始",
